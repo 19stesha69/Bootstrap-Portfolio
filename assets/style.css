@@ -91,8 +91,17 @@ section.container {
     margin-top: 20px;
 }
 
+.container {
+    padding: 20px;
+}
+
+.portfolioImages {
+    margin: auto;
+}
+
 .portfolioImages img {
-    margin: 10px;
+    width: 100%;
+    margin: auto;
 }
 
 .desc-box {
@@ -102,7 +111,9 @@ section.container {
     background-color: #4aaaa5;
     color: #ffffff;
     position: relative;
-    bottom: 50px;
+    bottom: 45px;
+    width: 100%;
+    margin: auto;
 }
 
 /* Form styling */
@@ -128,7 +139,7 @@ footer p {
     padding: 10px;
     margin: 0;
 }
-/*
+
 
 @media only screen and (max-width: 991px) {
 
