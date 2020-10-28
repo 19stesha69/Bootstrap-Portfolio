@@ -11,9 +11,9 @@ body {
     height: 100px;
     background-color: #ffffff;
     border-bottom: 1px solid #cccccc;
-    width: 965px;
     position: relative;
     top: 20px;
+    width: 70%;
 }
 
 h1 {
@@ -28,19 +28,13 @@ h1 {
 }
 
 .navbar {
-    margin-top: 30px;
-}
-
-.col-md-4.navbar {
-    margin-top: 0;
-}
-
-.nav-link {
-    padding: 0;
+    position: relative;
+    top: 20px;
+    text-align: center;
 }
 
 .navbar-nav {
-    margin-left: 150px;
+    margin: 0 auto;
 }
 
 a {
@@ -58,12 +52,11 @@ a {
 /* index content */
 
 section.sectionWrapper, form.sectionWrapper {
-    margin-top: 60px;
-}
-
-.container {
-    width: 965px;
-    background-color: #ffffff;
+    /* margin-top: 60px; */
+    position: relative;
+    top: 80px;
+    background-color: #fff;
+    width: 70%;
     margin: auto;
 }
 
@@ -91,12 +84,8 @@ section.container {
     margin-top: 20px;
 }
 
-.container {
-    padding: 20px;
-}
-
 .portfolioImages {
-    margin: auto;
+    padding: 20px;
 }
 
 .portfolioImages img {
@@ -120,6 +109,8 @@ section.container {
 
 form {
     margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 
@@ -141,7 +132,7 @@ footer p {
 }
 
 
-@media only screen and (max-width: 991px) {
+/* @media only screen and (max-width: 991px) {
 
     #header-container {
         margin-top: 0;
@@ -165,6 +156,6 @@ footer p {
     .nav-item {
         width: 100px;
     }
-}
+} */
 
 
