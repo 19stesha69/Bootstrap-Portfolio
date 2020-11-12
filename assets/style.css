@@ -132,13 +132,16 @@ footer p {
 }
 
 
-/* @media only screen and (max-width: 991px) {
+@media only screen and (max-width: 980px) {
 
     #header-container {
         margin-top: 0;
+        width: 100%;
+        position: static;
     }
 
     .navbar-nav {
+        flex-direction: row;
         margin: 0;
         padding-left: 25px;
         padding-right: 25px;
@@ -156,6 +159,6 @@ footer p {
     .nav-item {
         width: 100px;
     }
-} */
+}
 
 
