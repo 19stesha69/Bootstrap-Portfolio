@@ -196,4 +196,23 @@ footer p {
     }
 }
 
+/* Bootstrap Small */
+
+@media only screen and (max-width: 767px) {
+
+    h1 {
+        left: 10%;
+    }
+
+    .navbar {
+        position: relative;
+        right: 75px;
+    }
+
+    section.sectionWrapper, form.sectionWrapper {
+        width: 90%;
+    }
+
+}
+
 
