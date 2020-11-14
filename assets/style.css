@@ -165,7 +165,7 @@ footer p {
     }
 
     h1 {
-        margin: auto;
+        margin: 0 auto;
         position: absolute;
         top: 50%;
         left: 2%;
@@ -178,7 +178,7 @@ footer p {
         padding-left: 25px;
         padding-right: 25px;
     }
-    
+
     nav a {
         display: inline;
     }
@@ -220,6 +220,7 @@ footer p {
 
     .name-box {
         position: initial;
+        left: 0px;
     }
 
     .desc-box {
