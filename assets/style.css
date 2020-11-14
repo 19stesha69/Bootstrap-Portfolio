@@ -178,11 +178,7 @@ footer p {
         padding-left: 25px;
         padding-right: 25px;
     }
-
-    .navbar {
-        margin: 0;
-    }
-
+    
     nav a {
         display: inline;
     }
@@ -204,15 +200,31 @@ footer p {
         left: 10%;
     }
 
-    .navbar {
-        position: relative;
-        right: 75px;
-    }
-
     section.sectionWrapper, form.sectionWrapper {
         width: 90%;
     }
 
+}
+
+/* Bootstrap Extra-small */
+
+@media only screen and (max-width: 575px) {
+
+    #header-container {
+        height: 200px;
+    }
+
+    .col-12 {
+        padding: 0;
+    }
+
+    .name-box {
+        position: initial;
+    }
+
+    .desc-box {
+        margin-top: 25px;
+    }
 }
 
 
