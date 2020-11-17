@@ -1,6 +1,6 @@
 # Bootstrap-Portfolio
-Unit 2 - CSS/Bootstrap
-Assignment 2.1
+Unit 2 - CSS/Bootstrap  
+Assignment 2.1  
 Portfolio layout in Bootstrap
 
 The Assignment was to create a three-page static "portfolio" website using the Bootstrap library, showing proper responsive
