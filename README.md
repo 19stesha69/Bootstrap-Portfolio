@@ -9,5 +9,5 @@ styling for mobile devices.
 Site deployed here => (https://steeshmck.github.io/Bootstrap-Portfolio/)
 
 completed:
-April 19, 2019
+April 19, 2019  
 University of Oregon Coding Bootcamp
