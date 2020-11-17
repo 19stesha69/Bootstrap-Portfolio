@@ -8,5 +8,6 @@ styling for mobile devices.
 
 Site deployed here => (https://steeshmck.github.io/Bootstrap-Portfolio/)
 
-Assignment due April 19, 2019
+completed:
+April 19, 2019
 University of Oregon Coding Bootcamp
